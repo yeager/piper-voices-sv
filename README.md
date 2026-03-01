@@ -36,7 +36,7 @@ echo "Hej, jag heter Alma." | piper \
 ## Links
 
 - 🌐 [autismappar.se](https://autismappar.se) — Accessibility apps for children with NPF
-- 🤗 [HuggingFace: yeager/piper-voice-sv-alma](https://huggingface.co/yeager/piper-voice-sv-alma)
+- 🤗 [HuggingFace: yeager/piper-voice-sv-alma](https://huggingface.co/yeagersthlm/piper-voice-sv-alma)
 - 📖 [Piper documentation](https://github.com/rhasspy/piper)
 
 ## Swedish Language (sv_SE)

@@ -30,4 +30,4 @@ Trained using Piper's training pipeline on ~2 hours of studio-recorded Swedish s
 
 ## Also Available On
 
-- 🤗 [HuggingFace: yeager/piper-voice-sv-alma](https://huggingface.co/yeager/piper-voice-sv-alma)
+- 🤗 [HuggingFace: yeager/piper-voice-sv-alma](https://huggingface.co/yeagersthlm/piper-voice-sv-alma)
