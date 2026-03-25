@@ -40,3 +40,10 @@ Created by [Daniel Nylander](https://github.com/yeager) to improve accessibility
 ## License
 Voice models: CC-BY 4.0
 This repository: GPL v2 (matching NVDA and Sonata licenses)
+
+### Daniel (sv_SE-daniel-medium) — NEW!
+- **Gender:** Male
+- **Quality:** Medium (22050 Hz)
+- **Size:** 80 MB
+- **Training data:** Voice cloned from 3 minutes of speech
+- **License:** CC-BY 4.0
