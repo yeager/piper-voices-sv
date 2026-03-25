@@ -47,3 +47,10 @@ This repository: GPL v2 (matching NVDA and Sonata licenses)
 - **Size:** 80 MB
 - **Training data:** Voice cloned from 3 minutes of speech
 - **License:** CC-BY 4.0
+
+### Axel (sv_SE-axel-medium)
+- **Gender:** Male
+- **Quality:** Medium (22050 Hz)
+- **Size:** 63 MB
+- **Training data:** NST Swedish speech corpus
+- **License:** CC-BY 4.0
